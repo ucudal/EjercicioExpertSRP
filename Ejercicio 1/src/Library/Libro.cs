@@ -2,6 +2,7 @@
 
 namespace SRP
 {
+    
     public class Book
     {
 
@@ -18,11 +19,13 @@ namespace SRP
             this.Code = code;
         }
 
+        /*OLD
         public void ShelveBook(String sector, String shelve)
         {
             this.LibrarySector = sector;
             this.LibraryShelve = shelve;
         }
+        */
 
     }
 }

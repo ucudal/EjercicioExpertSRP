@@ -11,6 +11,10 @@ Agrega comentarios si crees que se cumple o no el principio. Recuerda que puedes
 ```csharp
 // esto es un comentario de línea
 
+/* 
+La clase libros no deberia tener la responsabilidad de archivar los libros, esta solo debería encargarse de conocer los detalles de los libros, como el autor, código y titúlo.
+*/
+
 /*
 Esto es un comentario
 de bloque. 
